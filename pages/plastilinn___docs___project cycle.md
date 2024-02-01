@@ -1,1 +1,0 @@
-- {{embed [[innBoK metamodel whiteboard]]}}
